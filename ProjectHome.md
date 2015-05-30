@@ -1,0 +1,3 @@
+Este proyecto además de proponer una mejoría en el servicio Hotelero de la Casa Quero, resulta pertinente por varias razones importantes; debido a que le permitirá a sus administradores un mayor control sobre las operaciones que este realiza, lo cual mejorara el manejo de datos y evitara desordenes a la hora de ingresar, consultar, eliminar etc. cualquier tipo de información.
+
+De otra parte, es pertinente para nuestro proceso educativo, puesto que colocamos en práctica todo lo aprendido en cada una de las asignaturas, adquiriendo mucha experiencia tanto en el campo universitario, como también en el campo que nos desempeñaremos como futuros Ingenieros de Sistemas.
